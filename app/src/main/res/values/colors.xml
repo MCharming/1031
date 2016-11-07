@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color>
+    <color name="point_select">#FF6A6A</color>
+    <color name="white">#ffffff</color>
+    <color name="default_color">#838B8B</color>
+    <color name="home_bottom_diver">#EDEDED</color>
+    <color name="home_navigation_top">#D4D4D4</color>
+    <color name="dark">#000000</color>
+    <color name="alpha_dark">#808080</color>
+    <color name="mistake_empty_bg">#969696</color>
+    <color name="count_down_bg">#E5E5E5</color>
+    <color name="newest_tab_bg">#3B3B3B</color>
+    <color name="details_bottom">#12000000</color>
+</resources>
